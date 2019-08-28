@@ -24,10 +24,12 @@
         
         <hr>
         
-        <p class="navigation"><a href="index">About</a></p>
-        <p class="navigation"><a href="projects">Projects</a></p>
-        <p class="navigation"><a href="employment">Employment</a></p>
-        <p class="navigation"><a href="education">Education</a></p>
+        {% for item in site.my_pages.pages %}
+          <p class="{% if item.url == page.url %}active{% endif %}">
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          </p>
+        {% endfor %}
+        
         
         <hr>
         
