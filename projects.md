@@ -15,12 +15,15 @@ filename: projects
 <p>
   Leap Motion project info
 </p>
-<p>
-  <a href="https://github.com/Jonathan-Oehley/EEE4114F_Project" target="_blank">GitHub<small>Check out this project</small></a>
-</p>
-<p>
-  <a href="https://www.leapmotion.com" target="_blank">LeapMotion<small>Have a look at their website</small></a>
-</p>
+
+<div>
+  <div style="display:inline-block;text-align:right;float:left;width:45%;">
+    <a href="https://github.com/Jonathan-Oehley/EEE4114F_Project" target="_blank">GitHub<small>Check out this project</small></a>
+  </div>
+  <div style="display:inline-block;text-align:left;float:right;width:45%;">
+    <a href="https://www.leapmotion.com" target="_blank">LeapMotion<small>Have a look at their website</small></a>
+  </div>
+</div>
 
 <hr>
 <h2>Line Following Car</h2>
