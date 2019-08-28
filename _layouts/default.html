@@ -26,10 +26,9 @@
         
         {% for item in site.data.my_pages.pages %}
           <p class="{% if item.url == page.url %}active{% endif %}">
-            <a href="{{ item.url }}">{{ item.url }} {{ page.url }}</a>
+            <a href="{{ item.url }}">{{ item.title }}</a>
           </p>
         {% endfor %}
-        
         
         <hr>
         
