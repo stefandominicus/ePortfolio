@@ -55,6 +55,11 @@ a:hover small {
   color:#777;
 }
 
+p.active a {
+  color:#069;
+  font-weight: bold;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
