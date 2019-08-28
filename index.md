@@ -1,6 +1,6 @@
 ---
-title: Home Page
+title: About
 layout: default
-filename: index
+filename: about
 --- 
 I hope this works...
