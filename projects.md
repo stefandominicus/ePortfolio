@@ -15,7 +15,7 @@ filename: projects
 <p>
   Leap Motion project info
 
-  <div style="height:100%;">
+  <div style="height:100px;">
     <div style="display:inline-block;text-align:right;float:left;width:45%;">
       <a href="https://github.com/Jonathan-Oehley/EEE4114F_Project" target="_blank">GitHub<small>Check out this project</small></a>
     </div>
