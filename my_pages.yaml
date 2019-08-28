@@ -1,13 +1,13 @@
 pages:
 
 - title: About
-  url: index.md
+  url: index
 
 - title: Education
-  url: education.md
+  url: education
 
 - title: Employment
-  url: employment.md
+  url: employment
 
 - title: Projects
-  url: projects.md
+  url: projects
