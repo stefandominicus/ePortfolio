@@ -1,0 +1,13 @@
+pages:
+
+- title: About
+  url: index.md
+
+- title: Education
+  url: education.md
+
+- title: Employment
+  url: employment.md
+
+- title: Projects
+  url: projects.md
