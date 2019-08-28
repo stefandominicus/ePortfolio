@@ -1,6 +1,6 @@
 ---
 title: Home Page
 layout: default
-filename: index.md
+filename: index
 --- 
 I hope this works...
