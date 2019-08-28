@@ -1,6 +1,6 @@
 ---
 title: Contact Me
 layout: default
-filename: contact.md
+filename: contact
 --- 
 Here's some contact info...
