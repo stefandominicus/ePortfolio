@@ -3,7 +3,7 @@ title: Education
 layout: default
 filename: education
 --- 
-<h1>Education</h>
+<h1>Education</h1>
 
 <h2>BSc(Eng) Mechatronics</h2>
 
