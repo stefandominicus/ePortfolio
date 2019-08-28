@@ -11,6 +11,10 @@ filename: contact
 </p>
 
 <div style="display:inline-block">
-  <a href="https://www.linkedin.com/in/stefan-dominicus-7144a136" target="_blank">LinkedIn<small>View my profile</small></a>
-  <a href="mailto:stefandominicus@gmail.com?subject=ePortfolio%20query:%20">Mail<small>Get in touch</small></a>
+  <li>
+    <a href="https://www.linkedin.com/in/stefan-dominicus-7144a136" target="_blank">LinkedIn<small>View my profile</small></a>
+  </li>
+  <li>
+    <a href="mailto:stefandominicus@gmail.com?subject=ePortfolio%20query:%20">Mail<small>Get in touch</small></a>
+  </li>
 </div>
