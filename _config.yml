@@ -1,1 +1,6 @@
+title: Stefan Dominicus
+description: my ePortfolio
+
 theme: jekyll-theme-tactile
+livereload: true
+show_downloads: true
