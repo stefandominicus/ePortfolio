@@ -2,12 +2,16 @@ pages:
 
 - title: About
   url: /
+  path: index
 
 - title: Education
   url: /education.html
+  path: education
 
 - title: Employment
   url: /employment.html
+  path: employment
 
 - title: Projects
   url: /projects.html
+  path: projects
