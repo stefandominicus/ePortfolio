@@ -3,4 +3,4 @@ description: my ePortfolio
 
 theme: jekyll-theme-tactile
 livereload: true
-show_downloads: true
+show_downloads: false
