@@ -15,3 +15,7 @@ pages:
 - title: Projects
   url: /projects.html
   path: projects
+
+- title: Hobbies
+  url: /hobbies.html
+  path: hobbies
