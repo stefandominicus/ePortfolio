@@ -1,6 +1,6 @@
 ---
 title: About
 layout: default
-filename: about
+filename: index
 --- 
 I hope this works...
