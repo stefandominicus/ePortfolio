@@ -1,6 +1,7 @@
 title: sPortfolio
 description: Stefan Dominicus
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
+logo: Resources/ProfilePhoto_StefanDominicus.jpg
 livereload: true
 show_downloads: false
