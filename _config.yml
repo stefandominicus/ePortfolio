@@ -3,5 +3,7 @@ description: My ePortfolio
 
 theme: jekyll-theme-minimal
 logo: resources/ProfilePhoto_StefanDominicus.png
-livereload: true
 show_downloads: false
+
+plugins:
+  - jemoji
