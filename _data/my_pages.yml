@@ -1,13 +1,13 @@
 pages:
 
 - title: About
-  url: index
+  url: /
 
 - title: Education
-  url: education
+  url: /education.html
 
 - title: Employment
-  url: employment
+  url: /employment.html
 
 - title: Projects
-  url: projects
+  url: /projects.html
