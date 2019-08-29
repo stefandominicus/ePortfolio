@@ -10,7 +10,7 @@ filename: education
 <h2>BSc(Eng) Mechatronics</h2>
 <p class="subtitle">2016 - 2019</p>
 <p>
-  Summary of UCT things.
+  Mechatronics is a versatile degree, combining aspects of electrical engineering, mechanical engineering, & computer science. I have found the curriculum very stimulating, and I have enjoyed expanding my knowledge in such a wide range of topics. I have been exposed to fields such as systems control & automation, electronics design, power electronics, and image processing to name a few, and my focus in my final year is predominantly on machine learning applications.
 </p>
 <h3>Awards & Achievements</h3>
 <p>
