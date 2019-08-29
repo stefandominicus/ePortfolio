@@ -17,7 +17,7 @@ filename: education
 </div>
 <hr>
 
-<img class="icon" src="resources/bishops_icon.png" alt="Bishops Diocensan College Logo">
+<img class="icon" src="resources/bishops_icon.jpg" alt="Bishops Diocensan College Logo">
 <h2>Bishops Diocesan College</h2>
 <p class="subtitle">2003 - 2015</p>
 <p>
