@@ -8,12 +8,20 @@ filename: skills
 <hr>
 <h2>Programming</h2>
 <p>
-  Hard Skills Here
+  Proficient: Python, Java, C/C++, MATLAB, Git
+  Intermediate: HTML, CSS, SQL
 </p>
 
 <h2>CAD</h2>
 <p>
-  Hard Skills Here
+  Autodesk Fusion 360
+  SketchUp Pro
+</p>
+
+<h2>Productivity</h2>
+<p>
+  MS Office
+  Google Suite
 </p>
 
 <h2>Welding & Fabrication</h2>
