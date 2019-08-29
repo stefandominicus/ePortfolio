@@ -7,6 +7,7 @@ body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+  width:100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -214,10 +215,6 @@ footer {
     width:auto;
     max-width:500px;
     margin:0 auto;
-  }
-
-  html, body {
-    width:100%;
   }
   
   header, section, footer {
