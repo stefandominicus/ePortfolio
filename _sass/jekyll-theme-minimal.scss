@@ -244,10 +244,10 @@ footer {
   }
 }
 
-@media print, screen and (max-height: 960px) {
+@media print, screen and (max-height: 900px) {
   
-  header, section, footer {
-    float:none;
+  header, footer {
+    float:left;
     position:static;
   }
   
