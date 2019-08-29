@@ -6,9 +6,9 @@ filename: projects
 
 <h1>Projects</h1>
 
-<p>
-  <a href="{{ site.github.owner_url }}" target="_blank">GitHub<small>Check out my profile</small></a>
-</p>
+<ul class="downloads">
+  <li><a href="{{ site.github.owner_url }}" target="_blank">GitHub<small>Check out my profile</small></a></li>
+</ul>
 
 <hr>
 <h2>Machine Learning with Leap Motion</h2>
