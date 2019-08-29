@@ -203,6 +203,10 @@ footer {
     height:auto;
   }
   
+  html {
+    min-height:600px;
+  }
+  
   html, body, div.wrapper, section {
     height:100%;
   }
