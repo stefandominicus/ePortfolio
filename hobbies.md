@@ -20,7 +20,7 @@ filename: hobbies
 </p>
 
 <hr>
-<h2>🏅 Playing Squash 🏅</h2>
+<h2>🏅 Squash 🏅</h2>
 <p>
   I have been a part of the UCT Squash Society from 2017. I enjoy playing league and social matches, as well as meeting new people. This year I am also captain of my league team.
 </p>
