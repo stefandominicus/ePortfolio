@@ -20,6 +20,12 @@ filename: hobbies
 </p>
 
 <hr>
+<h2>🏅 Playing Squash 🏅</h2>
+<p>
+  I have been a part of the UCT Squash Society from 2017. I enjoy playing league and social matches, as well as meeting new people. This year I am also captain of my league team.
+</p>
+
+<hr>
 <h2>🏍 Motorbikes 🏍</h2>
 <p>
   I love riding motorbikes, as well as working on them. I am in the process of growing my home workshop’s capabilities which will present a range of servicing and modification possibilities. I hope that I will one day be able to take on a kit-car project like an AC Cobra.
