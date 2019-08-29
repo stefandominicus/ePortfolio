@@ -200,11 +200,10 @@ footer {
 
 @media screen and (max-height: 900px) {
   
-  //header, footer {
-  footer {
+  header, footer {
     //float:left;
     position:static;
-    height:auto;
+    //height:auto;
     clear:left;
   }
   
