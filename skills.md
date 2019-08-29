@@ -9,18 +9,30 @@ filename: skills
 <h2>Programming</h2>
 <p>
   Proficient: Python, Java, C/C++, MATLAB, Git
+  <br>
   Intermediate: HTML, CSS, SQL
+</p>
+
+<h2>Electronics</h2>
+<p>
+  Platforms: Arduino, RPi, STM32F0
+  <br>
+  Circuit design, assembly, troubleshooting
 </p>
 
 <h2>CAD</h2>
 <p>
   Autodesk Fusion 360
+  <br>
   SketchUp Pro
+  <br>
+  Altium
 </p>
 
 <h2>Productivity</h2>
 <p>
   MS Office
+  <br>
   Google Suite
 </p>
 
