@@ -8,6 +8,7 @@ filename: employment
 
 <hr>
 <h2>Internships</h2>
+<img class="icon" src="resources/aerobotics_icon.png" alt="Aerobotics Logo">
 <h3>Aerobotics (Pty) Ltd</h3>
 <p>
   I was recently part of a six-week internship at Aerobotics (Pty) Ltd, where I was very involved in image processing and worked to streamline the process of stitching hundreds of images into a single orthographic image for further processing.
