@@ -136,7 +136,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header p {
+header p, header h1, footer p {
   text-align:center;
 }
 
@@ -152,7 +152,7 @@ section {
   padding-bottom:50px;
 }
 
-section h1 {
+section h2 {
   text-align:left;
 }
 
