@@ -7,7 +7,7 @@ filename: index
 <h1>About</h1>
 
 <p>
-  Hello and welcome to my ePortfolio. Thank you for taking the time to get to know me. If you like what you see, and would like to find out more, please feel free to contact me.
+  Hello and welcome to my ePortfolio. Thank you for taking the time to get to know me. If you like what you see, and would like to find out more, please feel free to <a href="contact">contact me</a>.
 </p>
 <hr>
 
@@ -27,13 +27,13 @@ filename: index
 </p>
 
 <hr>
-<h2>Not a fan of websites?</h2>
+<h2>Don't leave empty handed!?</h2>
 <p>
-  Check out my CV instead.
+  Before you leave, why don't you take a moment to save my CV. This portfolio goes into more detial in some areas, particularly my projects, but my CV contains all the most important information you may want to know about me.
 </p>
 
 <div class="linkbox">
-  <a href="resources/CV_StefanDominicus.pdf" target="_blank">Curriculum Vitae<small>More information</small></a>
+  <a href="resources/CV_StefanDominicus.pdf" target="_blank">Curriculum Vitae<small>PDF download</small></a>
 </div>
 
 <hr>
