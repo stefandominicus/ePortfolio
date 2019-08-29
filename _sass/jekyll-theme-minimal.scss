@@ -202,7 +202,7 @@ footer {
     position:static;
   }
   
-  html, body, div.wrapper, header, section, footer {
+  html, body, div.wrapper, section {
     height:100%;
   }
   
@@ -220,7 +220,6 @@ footer {
     float:none;
     position:static;
     width:100%;
-    height:auto;
   }
 
   section {
