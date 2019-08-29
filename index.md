@@ -7,6 +7,8 @@ filename: index
 
 <hr>
 <h2>Curriculum Vitae</h2>
-<p>
+
+<div class="linkbox">
   <a href="resources/CV_StefanDominicus.pdf" target="_blank">Curriculum Vitae<small>More information</small></a>
-</p>
+</div>
+<hr>
