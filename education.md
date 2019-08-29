@@ -25,7 +25,7 @@ filename: education
 </p>
 <h3>Awards & Achievements</h3>
 <p>
-  I started playing the trumpet in 2007, and in 2011 I was awarded a <b>Bishops Music Scholarship</b> for the remainder of my schooling. Over the course of my five years of highschool, I was awarded <b>Full Colours for Leadership, Academics, Music, Drama, & Cycling</b>. When I matriculated in 2015, I achieved 7 distinctions and an 87% agregate. My matric results are linked below.
+  I started playing the trumpet in 2007, and in 2011 I was awarded a <b>Bishops Music Scholarship</b> for the remainder of my schooling. Over the course of my five years of highschool, I was awarded <b>Full Colours for Leadership, Academics, Music, Drama, & Cycling</b>. When I matriculated in 2015, I achieved <b>7 distinctions and an 87% agregate</b>. My matric results are linked below.
 </p>
 <div class="linkbox">
   <a href="resources/MatricCertificate_StefanDominicus.pdf" target="_blank">Academic Results<small>NSC Certificate</small></a>
