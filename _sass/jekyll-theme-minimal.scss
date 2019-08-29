@@ -106,8 +106,11 @@ th {
   color:#444;
 }
 
-img {
-  max-width:100%;
+img.profilephoto {
+  display:block;
+  max-width:250px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img.icon {
