@@ -22,7 +22,7 @@ filename: employment
 <img class="icon" src="resources/skillup_icon.png" alt="SkillUp Logo">
 <h3>SkillUp Tutors</h3>
 <p>
-  I began working with SkillUp as a private tutor in 2016, which has allowed me to share my love of math and science with others. What began as a way to earn a little pocket money has become a passion for empowering struggling students to achieve the results they know they are capable of. I have worked with students in high school and at university, from all over the Southern Suburbs. I tend to work most on math and physics, and I love seeing my students grapple with and grasp the content which they previously found confusing. I particularly enjoy building lasting relationships with my students, where I can be a part of their progress towards achieving the results they desire.
+  I began working with SkillUp as a private tutor in 2016, which has allowed me to share my love of math and science with others. What began as a way to earn a little pocket money has become a passion for empowering struggling students to achieve the results they know they are capable of. I have worked with students in high school and at university, from all over the Southern Suburbs. I tend to work most on math and physics, and I love seeing my students grapple with and grasp the content which they previously found challenging. I particularly enjoy building lasting relationships with my students, where I can be a part of their progress towards achieving the results they desire.
 </p>
 <div class="linkbox">
   <a href="https://skillup.live/Stefan-2334" target="_blank">SkillUp Tutors<small>View my profile</small></a>
