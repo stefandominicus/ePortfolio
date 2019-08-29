@@ -216,7 +216,11 @@ footer {
     margin:0 auto;
   }
 
-  html, header, section, footer {
+  html, body {
+    width:100%;
+  }
+  
+  header, section, footer {
     float:none;
     position:static;
     width:100%;
