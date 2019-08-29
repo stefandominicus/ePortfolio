@@ -27,6 +27,13 @@ h1 {
   font-size:28px;
 }
 
+h1.left {
+  text-align:left;
+  font-size:45px;
+  line-height:2;
+  font-weight:2000;
+}
+
 h2 {
   color:#393939;
 }
@@ -203,7 +210,6 @@ footer {
   
   header, footer {
     position:static;
-    //clear:left;
   }
   
 }
@@ -220,7 +226,6 @@ footer {
     float:none;
     position:static;
     width:100%;
-    //height:auto;
   }
 
   section {
