@@ -18,7 +18,7 @@ filename: projects
 </p>
 
 <hr>
-<h2>Positoin Estimation using Stereographic Images</h2>
+<h2>Position Estimation using Stereographic Images</h2>
 <p class="subtitle">2019</p>
 <p>
   Leap Motion project info
