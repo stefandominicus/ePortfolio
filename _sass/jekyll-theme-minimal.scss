@@ -146,7 +146,6 @@ strong {
 }
 
 section {
-  text-align:justify;
   width:500px;
   float:right;
   padding-bottom:50px;
@@ -154,6 +153,10 @@ section {
 
 section h2 {
   text-align:left;
+}
+
+section p {
+  text-align:justify;
 }
 
 small {
