@@ -27,7 +27,7 @@ filename: index
 </p>
 
 <hr>
-<h2>Don't leave empty handed!?</h2>
+<h2>Don't leave empty handed!</h2>
 <p>
   Before you leave, why don't you take a moment to save my CV. This portfolio goes into more detial in some areas, particularly my projects, but my CV contains all the most important information you may want to know about me.
 </p>
