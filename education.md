@@ -4,8 +4,9 @@ layout: default
 filename: education
 --- 
 <h1>Education</h1>
-
 <hr>
+
+<img class="icon" src="resources/uct_icon.png" alt="UCT Logo">
 <h2>BSc(Eng) Mechatronics</h2>
 <p class="subtitle">2016 - 2019</p>
 <p>
@@ -16,6 +17,7 @@ filename: education
 </div>
 <hr>
 
+<img class="icon" src="resources/bishops_icon.png" alt="Bishops Diocensan College Logo">
 <h2>Bishops Diocesan College</h2>
 <p class="subtitle">2003 - 2015</p>
 <p>
