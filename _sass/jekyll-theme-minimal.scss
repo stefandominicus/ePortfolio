@@ -201,10 +201,7 @@ footer {
     float:left;
     position:static;
     height:auto;
-  }
-  
-  html {
-    min-height:600px;
+    clear:left;
   }
   
   html, body, div.wrapper, section {
