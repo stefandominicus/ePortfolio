@@ -46,7 +46,7 @@ filename: projects
 
 <hr>
 <h2>CNC Router Build</h2>
-<p class="subtitle">2015</p>
+<p class="subtitle">2017 - Present</p>
 <p>
   Some pics and videos of this project
 </p>
