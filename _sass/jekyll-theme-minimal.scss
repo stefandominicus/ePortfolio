@@ -129,7 +129,7 @@ img {
   width:45%;
 }
 
-header p {
+header {
   text-align:center;
   width:270px;
   float:left;
@@ -147,6 +147,10 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+}
+
+section h1 {
+  text-align:left;
 }
 
 small {
