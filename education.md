@@ -7,6 +7,7 @@ filename: education
 
 <hr>
 <h2>BSc(Eng) Mechatronics</h2>
+<p class="subtitle">2016 - 2019</p>
 <p>
   Summary of UCT things.
 </p>
@@ -16,6 +17,7 @@ filename: education
 <hr>
 
 <h2>Bishops Diocesan College</h2>
+<p class="subtitle">2003 - 2015</p>
 <p>
   Summary of Bishops things.
 </p>
