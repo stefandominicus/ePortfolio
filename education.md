@@ -23,7 +23,27 @@ filename: education
 <p>
   Summary of Bishops things.
 </p>
+<h3>Awards & Achievements</h3>
+<ul style="list-style-type:none">
+  <li>Matriculated with 7 Distinctions</li>
+  <li>Bishops Music Scholarship</li>
+  <li>Full Colours (Leadership, Academic, Music, Drama, Cycling)</li>
+</ul>
 <div class="linkbox">
   <a href="resources/MatricCertificate_StefanDominicus.pdf" target="_blank">Academic Results<small>NSC Certificate</small></a>
 </div>
+
+<h3>Edinburgh Fringe Festival</h3>
+<p>
+  In 2012, and again in 2015, I was part of the production team responsible for two plays performed at the Edinburgh Fringe Festival (Biloxi Blues, and Cold Stone Jug respectively). The Edinburgh Fringe Festival is one of the most highly acclaimed drama and culture festivals in the world. Aside from being an exciting travel experience, these two trips taught me about working to a very tight schedule in an unfamiliar location, and about managing a team to overcome unforeseen setbacks.
+</p>
+<div class="linkbox">
+  <a href="https://www.edfringe.com" target="_blank">Edinburgh Fringe<small>Check out their website</small></a>
+</div>
+
+<h3>Chile Exchange</h3>
+<p>
+  In 2013, I was selected to take part in a two-month student exchange to Curicó, Chile. While in Chile, I stayed with a host family and attended Orchard College High School. I could speak barely any Spanish, so I joined some of the grade 3 and 4 classes, where I helped the younger kids improve their English.
+</p>
+
 <hr>
