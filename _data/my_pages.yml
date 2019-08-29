@@ -12,6 +12,10 @@ pages:
   url: /employment.html
   path: employment
 
+- title: Skills
+  url: /skills.html
+  path: skills
+
 - title: Projects
   url: /projects.html
   path: projects
