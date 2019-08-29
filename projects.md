@@ -11,7 +11,15 @@ filename: projects
 </p>
 
 <hr>
-<h2>Machine Learning with Leap Motion</h2>
+<h2>Polar Ice Charting using Machine Learning</h2>
+<p class="subtitle">Ongoing</p>
+<p>
+  Some pics and videos of this project
+</p>
+
+<hr>
+<h2>Positoin Estimation using Stereographic Images</h2>
+<p class="subtitle">2019</p>
 <p>
   Leap Motion project info
 </p>
@@ -27,10 +35,16 @@ filename: projects
 
 <hr>
 <h2>Line Following Car</h2>
+<p class="subtitle">2018</p>
 <p>
   Some pics and videos of this project
 </p>
-<div class="linkbox">
-  <a href="https://www.leapmotion.com" target="_blank">LeapMotion<small>Have a look at their website</small></a>
-</div>
+
+<hr>
+<h2>Arduino Quadcopter</h2>
+<p class="subtitle">2015</p>
+<p>
+  Some pics and videos of this project
+</p>
+
 <hr>
