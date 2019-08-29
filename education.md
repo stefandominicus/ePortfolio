@@ -21,7 +21,7 @@ filename: education
 <h2>Bishops Diocesan College</h2>
 <p class="subtitle">2003 - 2015</p>
 <p>
-  Summary of Bishops things.
+  I was privilaged to attend Bishops for 13 years, from grade R to matric. In my grade 7 year, I was selected as Depute Head of Bramely House, and in grade 12 I was elected as Head of Mallett House, Capitain of Cycling, and one of two senior students in charge of the Audio Visual Department.
 </p>
 <h3>Awards & Achievements</h3>
 <p>
