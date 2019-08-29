@@ -143,6 +143,7 @@ img.icon {
 header {
   width:270px;
   float:left;
+  clear:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -159,6 +160,7 @@ strong {
 section {
   width:500px;
   float:right;
+  clear:right;
   padding-bottom:50px;
 }
 
@@ -190,6 +192,7 @@ footer {
   text-align:center;
   width:270px;
   float:left;
+  clear:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -197,17 +200,13 @@ footer {
 
 @media screen and (max-height: 900px) {
   
-  header, footer {
-    float:left;
+  //header, footer {
+  footer {
+    //float:left;
     position:static;
     height:auto;
     clear:left;
   }
-  
-  
-  //html, body, div.wrapper, section {
-    //height:100%;
-  //}
   
 }
 
