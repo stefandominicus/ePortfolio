@@ -216,7 +216,7 @@ footer {
     margin:0 auto;
   }
 
-  header, section, footer {
+  html, header, section, footer {
     float:none;
     position:static;
     width:100%;
@@ -233,7 +233,7 @@ footer {
   }
   
   body {
-    padding:0;
+    padding:50px 5px 50px 5px;
   }
 
 }
