@@ -18,7 +18,7 @@ filename: skills
 
 <h2>Productivity</h2>
 <p>
-  It may not be the most glamorous of skills, but reporting and presenting results are an important part of any workplace. I am proficient with most of the <b>MS Office Suite</b>, and I also have experience using <b>macros and VBA scripting in Excel</b>. With so much being done on cloud-based platforms, I have also become very comfortable using <b>Google's productivity suite<b>. Recently I have done a lot of cloud computing work using <b>Google Colaboratoy</b>, and I have had some limited experience with <b>Amazon EC2</b> duing my internship with Aerobotics (see my <a href="employment">employment history</a>).
+  It may not be the most glamorous of skills, but reporting and presenting results are an important part of any workplace. I am proficient with most of the <b>MS Office Suite</b>, and I also have experience using <b>macros and VBA scripting in Excel</b>. With so much being done on cloud-based platforms, I have also become very comfortable using <b>Google's productivity suite</b>. Recently I have done a lot of cloud computing work using <b>Google Colaboratoy</b>, and I have had some limited experience with <b>Amazon EC2</b> duing my internship with Aerobotics (see my <a href="employment">employment history</a>).
   MS Office
   <br>
   Google Suite
