@@ -10,7 +10,6 @@ filename: hobbies
 <h2>🎶 DJing 🎶</h2>
 <p>
   Since 2012, I have been working as a DJ for private functions and parties. My music and playing style allows me to entertain people from 13th birthday parties, 21st, 40th, 50th, wedding celebrations, as well as promotional events and corporate functions. I enjoy getting to work with the client to bring life into each party. Every event is different, and each client presents their own challenges, which makes each one unique and exciting.
-
 </p>
 
 <hr>
