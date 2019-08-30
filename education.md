@@ -47,5 +47,3 @@ filename: education
 <p>
   In 2013, I was selected to take part in a two-month student exchange to Curicó, Chile. While in Chile, I stayed with a host family and attended Orchard College High School. I could speak barely any Spanish, so I joined some of the grade 3 and 4 classes, where I helped the younger kids improve their English.
 </p>
-
-<hr>
