@@ -31,7 +31,7 @@ filename: projects
     <a href="https://github.com/Jonathan-Oehley/EEE4114F_Project" target="_blank">GitHub<small>Check out this project</small></a>
   </div>
   <div class="innerright">
-    <a href="https://www.leapmotion.com" target="_blank">LeapMotion<small>Have a look at their website</small></a>
+    <a href="https://www.leapmotion.com" target="_blank">LeapMotion<small>Check out their website</small></a>
   </div>
 </div>
 
