@@ -18,4 +18,3 @@ filename: contact
     <a href="mailto:stefandominicus@gmail.com?subject=ePortfolio%20query:%20">Mail<small>Get in touch</small></a>
   </div>
 </div>
-<hr>
