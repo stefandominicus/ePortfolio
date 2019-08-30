@@ -40,5 +40,3 @@ filename: employment
 <div class="linkbox">
   <a href="https://skillup.live/Stefan-2334" target="_blank">SkillUp Tutors<small>View my profile</small></a>
 </div>
-
-<hr>
