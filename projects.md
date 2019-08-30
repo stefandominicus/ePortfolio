@@ -66,5 +66,3 @@ filename: projects
 <p>
   I started becoming very interested in microcontrollers and more advanced electronics towards the end of high school. During my matric year, I designed and built a quadcopter based on an Arduino platform. I particularly enjoyed writing a controller application for my laptop which sent commands to the quadcopter. This allowed me to experiment with a wide range of user input devices, such as PlayStation controllers and LeapMotion hand tracking.
 </p>
-
-<hr>
