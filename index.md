@@ -23,7 +23,7 @@ filename: index
 
 <h2>Fabricator</h2>
 <p>
-  I am always immensly satisfied when my projects come to life. As an engineer, that typically means getting my hands dirty. Over the years, I have developed countless skills which enable me to take on almost any project knowing that I am capable of seeing it throgh to completion. In every project I learn something new, and I've also been known to take on something exotic just so I can try something new, or learn a new process.
+  I am always immensely satisfied when my projects come to life. As an engineer, that typically means getting my hands dirty. Over the years, I have developed countless skills which enable me to take on almost any project knowing that I am capable of seeing it through to completion. In every project I learn something new, and I've also been known to take on something exotic just so I can try something new, or learn a new process.
 </p>
 
 <hr>
