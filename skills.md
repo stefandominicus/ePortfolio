@@ -16,16 +16,16 @@ filename: skills
   I am very interested in low-cost electronics, and I have years of self-taught experience with various <b>Arduino</b> platforms. My courses at UCT have allowed me to work with more advanced platforms such as <b>Raspberry Pi</b>, and an <b>STM32F0 micro-controller</b>. Many of my courses have also covered <b>circuit design, assembly, and troubleshooting</b>, which I have put to use in many of my personal projects as well.
 </p>
 
-<h2>CAD</h2>
-<p>
-  At high school I was introduced to <b>Google SketchUp</b>, which revolutionised the way I planned my projects and communicated my ideas to others. More recently, I have become very comfortable working with <b>Autodesk Fusion 360</b>. I find F360 incredibly useful since it includes both Computer-Aided Design (CAD), and Computer-Aided Manufacture (CAM) workflows, which I use extensibly for my CNC Router (see my projects page for more info on this). Through my ekectronics courses at university I have some experience with <b>Altium Designer</b>, although I do not do much PCB design in my personal projects.
-</p>
-
 <h2>Productivity</h2>
 <p>
   MS Office
   <br>
   Google Suite
+</p>
+
+<h2>CAD</h2>
+<p>
+  At high school I was introduced to <b>Google SketchUp</b>, which revolutionised the way I planned my projects and communicated my ideas to others. More recently, I have become very comfortable working with <b>Autodesk Fusion 360</b>. I find F360 incredibly useful since it includes both Computer-Aided Design (CAD), and Computer-Aided Manufacture (CAM) workflows, which I use extensibly for my CNC Router (see my projects page for more info on this). Through my ekectronics courses at university I have some experience with <b>Altium Designer</b>, although I do not do much PCB design in my personal projects.
 </p>
 
 <h2>Welding & Fabrication</h2>
