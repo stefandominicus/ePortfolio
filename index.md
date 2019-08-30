@@ -13,17 +13,17 @@ filename: index
 
 <h2>Creator</h2>
 <p>
-  Something creative...
+  I am an engineer at heart, and I see the world around me as my sandbox. I enjoy using my skills to shape and control my surroundings to suit my needs. I often revisist designs many times over until it feels complete, with the right mix of ingenuity, practicality, and flare.
 </p>
 
 <h2>Innovator</h2>
 <p>
-  I strive to always find the best solution to any problem. I am looking to create new and innovative systems, designed to seamlessly integrate useful technology into new or existing products and processes, providing immediate benefits to users. I am focused, hardworking, and able to perform consistently, both under supervision and alone. This work ethic and skillset allow me to face any challenge head-on.
+  I always strive to find the best solution to any problem, and I am particularly driven to look for ways to give end users the maximum benefit. I am never scared to do things which haven't been done before, and often take on such tasks just to see what might happen. This curiosity allows me to expand my horizons, and design beyond existing constraints.
 </p>
 
 <h2>Fabricator</h2>
 <p>
-  Somthing about making stuff...
+  I am always immensly satisfied when my projects come to life. As an engineer, that typically means getting my hands dirty. Over the years, I have developed countless skills which enable me to take on almost any project knowing that I am capable of seeing it throgh to completion. In every project I learn something new, and I've also been known to take on something exotic just so I can try something new, or learn a new process.
 </p>
 
 <hr>
