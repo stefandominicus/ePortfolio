@@ -35,17 +35,17 @@ filename: skills
 <hr>
 <h2>Leadership</h2>
 <p>
-  Soft Skills Here
+  I am a natural leader, and prefer to lead by example rather than by instruction. I held a number of leadership roles at school, most notably as <b>Head of House</b> for my matric year. I demonstrated my abilities as an effective leader throughout my matric year, and also developed a number of useful skills and tactics for managing conflicts and achieving goals. In recognition of my abilities, I was awarded <b>Full Colours for leadership</b> at the end of my matric year. At university, I have often taken a <b>leadership role in group projects</b>, and I have also <b>captained my league squash team</b> in 2019.
 </p>
 
 <h2>Organisation</h2>
 <p>
-  Soft Skills Here
+  I have always thrived in an organised environment, no matter the task. I have developed a number of organisational skills and habits over the years, and these have proved very useful in all of my projects. I always stay on top of work, and manage my deadlines well to ensure that nothing slips through the cracks.
 </p>
 
 <h2>Teamwork</h2>
 <p>
-  Soft Skills Here
+  I have had many opportunities to hone my conduct in a team environment, and I've definitely learnt something new after every group project or production management team I've been a part of. I think this skill ties in quite closely with my leadership abilities. Even when I do not assume a leadership role in a group environment, I tend to be very aware of what a leader would want from their team, which allows me to act in a way which is condusive to the group's functioning.
 </p>
 
 <hr>
