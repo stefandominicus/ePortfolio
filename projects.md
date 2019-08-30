@@ -17,7 +17,7 @@ filename: projects
   I am busy working on my final year project, which involves using machine learning to predict sea ice concentration from satellite images and remote sensing data, for the purpose of providing the maritime industry with information regarding the safety of different shipping channels. This project is in colaboration with WeatherSA. More details to follow - for now, have a look at WeatherSA's webiste if this sounds interesting.
 </p>
 <div class="linkbox">
-  <a href="http://marine.weathersa.co.za" target="_blank">WeatherSA<small>Check out their their website</small></a>
+  <a href="http://marine.weathersa.co.za" target="_blank">WeatherSA<small>Check out their website</small></a>
 </div>
 
 <hr>
