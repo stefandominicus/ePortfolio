@@ -35,5 +35,3 @@ filename: index
 <div class="linkbox">
   <a href="resources/CV_StefanDominicus.pdf" target="_blank">Curriculum Vitae<small>PDF download</small></a>
 </div>
-
-<hr>
