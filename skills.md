@@ -8,7 +8,7 @@ filename: skills
 <hr>
 <h2>Programming</h2>
 <p>
-  I studied IT for three years in high school, which gave me a really great introduction into programming. At university, I have taken a variety of computer science and engineering courses, which have expanded my programming capabilities through both theory and projects. <b>I am proficient in Python, Java, C/C++, MATLAB & Git</b>, and I am reasonably familiar with <b>HTML, CSS & SQL</b>.
+  I studied IT for three years in high school, which gave me a really great introduction into programming. At university, I have taken a variety of computer science and engineering courses, which have expanded my programming capabilities through both theory and projects. I am <b>proficient in Python, Java, C/C++, MATLAB & Git</b>, and I am reasonably <b>familiar with HTML, CSS & SQL</b>.
 </p>
 
 <h2>Electronics</h2>
