@@ -10,11 +10,11 @@ filename: education
 <h2>BSc(Eng) Mechatronics</h2>
 <p class="subtitle">2016 - 2019</p>
 <p>
-  Mechatronics is a versatile degree, combining aspects of electrical engineering, mechanical engineering, and computer science. I have found the curriculum very stimulating, and I have enjoyed expanding my knowledge in such a wide range of topics. I have been exposed to fields such as systems control & automation, electronics design, and image processing to name a few. My focus in my final year is predominantly on machine learning applications.
+  Mechatronics is a versatile degree, combining aspects of electrical engineering, mechanical engineering, and computer science. I have found the curriculum very stimulating, and have enjoyed expanding my knowledge in a wide range of topics. I have been exposed to fields such as systems control & automation, electronics design, and image processing to name a few. My focus in my final year is predominantly on machine learning applications.
 </p>
 <h3>Awards & Achievements</h3>
 <p>
-  I was awarded a <b>Faculty Entrance Scholarship</b> based on my matric results, and I have been on the <b>Dean's Merit List each and every year</b>. In 2016 I received the <b>Class Medal for Introduction to Electronics</b>, I was awarded a <b>Computer Science Merit Award</b>. In 2017 I was invited to join the <b>Golden Key International Honor Society</b> based on my academic performance. I have continued to achieve high marks, with an <b>overall GPA of 79%</b>. My full academic transcript is available below.
+  I was awarded a <b>Faculty Entrance Scholarship</b> based on my matric results, and I have been on the <b>Dean's Merit List each year</b>. In 2016 I received the <b>Class Medal for Introduction to Electronics</b>, and earned a <b>Computer Science Merit Award</b>. In 2017 I was invited to join the <b>Golden Key International Honor Society</b> based on my academic performance. I have continued to achieve high marks, with a <b>current GPA of 80%</b>. My full academic transcript is available below.
 </p>
 <div class="linkbox">
   <a href="resources/UCT_Transcript_StefanDominicus.pdf" target="_blank">Academic Results<small>UCT Transcript</small></a>
@@ -29,7 +29,7 @@ filename: education
 </p>
 <h3>Awards & Achievements</h3>
 <p>
-  I started playing the trumpet in 2007, and in 2011 I was awarded a <b>Bishops Music Scholarship</b> for the remainder of my schooling. Over the course of my five years of highschool, I was awarded <b>Full Colours for Leadership, Academics, Music, Drama, & Cycling</b>. When I matriculated in 2015, I achieved <b>7 distinctions and an 87% agregate</b>. My matric results are linked below.
+  I started playing the trumpet in 2007, and in 2011 I was awarded a <b>Bishops Music Scholarship</b> for the remainder of my schooling. Over the course of my five years of highschool, I was awarded <b>Full Colours for Leadership, Academics, Music, Drama, & Cycling</b>. I matriculated in 2015, achieving <b>7 distinctions and an 87% agregate</b>. My matric results are linked below.
 </p>
 <div class="linkbox">
   <a href="resources/MatricCertificate_StefanDominicus.pdf" target="_blank">Academic Results<small>NSC Certificate</small></a>
