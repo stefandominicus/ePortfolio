@@ -29,7 +29,7 @@ filename: index
 <hr>
 <h2>Before you go...</h2>
 <p>
-  Here's a copy of my CV. This portfolio goes into more detial in some areas, particularly my projects, but my CV contains all the most important information you may want to know about me.
+  Here's a copy of my CV. This portfolio goes into more detail in some areas, particularly my projects, but my CV contains all the most important information you may want to know about me.
 </p>
 
 <div class="linkbox">
