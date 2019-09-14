@@ -45,5 +45,5 @@ filename: skills
 
 <h2>Teamwork</h2>
 <p>
-  I have had many opportunities to hone my conduct in a team environment, and I've definitely learnt something new after every group project or production management team I've been a part of. I think this skill ties in quite closely with my leadership abilities. Even when I do not assume a leadership role in a group environment, I tend to be very aware of what a leader would want from their team, which allows me to act in a way which is condusive to the group's functioning.
+  I have had many opportunities to hone my conduct in a team environment, and I've definitely learnt something new after every group project or production management team I've been a part of. I think this skill ties in quite closely with my leadership abilities. Even when I do not assume a leadership role in a group environment, I tend to be very aware of what a leader would want from their team, which allows me to act in a way which is conducive to the group's functioning.
 </p>
