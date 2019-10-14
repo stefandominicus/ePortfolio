@@ -21,7 +21,7 @@ filename: projects
     <a href="https://github.com/stefandominicus/FYP_ML_SIC" target="_blank">GitHub<small>Check out this project</small></a>
   </div>
   <div class="innerright">
-    <a href="resources/EEE4022S_2019_FINAL_REPORT_DMNSTE001_DOMINICUS_S_MISHRA.pdf" target="_blank">Project Report<small>Check out the final report</small></a>
+    <a href="https://github.com/stefandominicus/FYP_ML_SIC/blob/master/Project%20Report/EEE4022S_2019_FINAL_REPORT_DMNSTE001_DOMINICUS_S_MISHRA.pdf" target="_blank">Project Report<small>Check out the final report</small></a>
   </div>
 </div>
 
