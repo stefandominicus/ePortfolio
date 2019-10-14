@@ -11,13 +11,18 @@ filename: projects
 </p>
 
 <hr>
-<h2>Polar Ice Charting using Machine Learning</h2>
-<p class="subtitle">Ongoing</p>
+<h2>Sea Ice Concentration Estimation Techniques Using Machine Learning</h2>
+<p class="subtitle">2019</p>
 <p>
-  I am busy working on my final year project, which involves using machine learning to predict sea ice concentration from satellite images and remote sensing data, for the purpose of providing the maritime industry with information regarding the safety of different shipping channels. This project is in colaboration with WeatherSA. More details to follow - for now, have a look at WeatherSA's webiste if this sounds interesting.
+  For my BSc(Eng) Mechatronics final year project, I presented an end-to-end workflow for generating learned concentration estimation models from synthetic aperture radar data, trained on existing passive microwave data. A novel objective function was introduced to account for uncertainty in the passive microwave measurements, which can be extended to account for arbitrary sources of error in the training data, and a recent set of in situ observations was used to evaluate the reliability of the chosen passive microwave concentration estimation model. The project resources and final report are available on GitHub, at the links below.
 </p>
 <div class="linkbox">
-  <a href="http://marine.weathersa.co.za" target="_blank">WeatherSA<small>Check out their website</small></a>
+  <div class="innerleft">
+    <a href="https://github.com/stefandominicus/FYP_ML_SIC" target="_blank">GitHub<small>Check out this project</small></a>
+  </div>
+  <div class="innerright">
+    <a href="resources/EEE4022S_2019_FINAL_REPORT_DMNSTE001_DOMINICUS_S_MISHRA.pdf" target="_blank">Project Report<small>Check out the final report</small></a>
+  </div>
 </div>
 
 <hr>
