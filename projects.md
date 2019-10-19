@@ -13,6 +13,11 @@ filename: projects
 <hr>
 <h2>Sea Ice Concentration Estimation Techniques Using Machine Learning</h2>
 <p class="subtitle">2019</p>
+
+<div class="youtube-container">
+  <iframe src="https://www.youtube.com/embed/I_Tl-4uXTvs" allowfullscreen></iframe>
+</div>
+
 <p>
   For my BSc(Eng) Mechatronics final year project, I presented an end-to-end workflow for generating learned concentration estimation models from synthetic aperture radar data, trained on existing passive microwave data. A novel objective function was introduced to account for uncertainty in the passive microwave measurements, which can be extended to account for arbitrary sources of error in the training data, and a recent set of in situ observations was used to evaluate the reliability of the chosen passive microwave concentration estimation model. The project resources and final report are available on GitHub, at the links below.
 </p>
@@ -24,10 +29,6 @@ filename: projects
   <div class="innerright">
     <a href="https://github.com/stefandominicus/FYP_ML_SIC/blob/master/Project%20Report/EEE4022S_2019_FINAL_REPORT_DMNSTE001_DOMINICUS_S_MISHRA.pdf" target="_blank">Project Report<small>Check out the final report</small></a>
   </div>
-</div>
-
-<div class="youtube-container">
-  <iframe src="https://www.youtube.com/embed/I_Tl-4uXTvs" allowfullscreen></iframe>
 </div>
 
 <hr>
