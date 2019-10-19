@@ -17,9 +17,9 @@ filename: projects
   For my BSc(Eng) Mechatronics final year project, I presented an end-to-end workflow for generating learned concentration estimation models from synthetic aperture radar data, trained on existing passive microwave data. A novel objective function was introduced to account for uncertainty in the passive microwave measurements, which can be extended to account for arbitrary sources of error in the training data, and a recent set of in situ observations was used to evaluate the reliability of the chosen passive microwave concentration estimation model. The project resources and final report are available on GitHub, at the links below.
 </p>
 
-<iframe width="450" height="253" src="https://www.youtube.com/embed/I_Tl-4uXTvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
+<div class="youtube-container">
+  <iframe src="https://www.youtube.com/embed/I_Tl-4uXTvs" allowfullscreen></iframe>
+</div>
 
 <div class="linkbox">
   <div class="innerleft">
