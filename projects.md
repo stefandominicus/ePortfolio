@@ -18,8 +18,10 @@ filename: projects
   <iframe src="https://www.youtube.com/embed/I_Tl-4uXTvs" allowfullscreen></iframe>
 </div>
 
+<br>
+
 <p>
-  For my BSc(Eng) Mechatronics final year project, I presented an end-to-end workflow for generating learned concentration estimation models from synthetic aperture radar data, trained on existing passive microwave data. A novel objective function was introduced to account for uncertainty in the passive microwave measurements, which can be extended to account for arbitrary sources of error in the training data, and a recent set of in situ observations was used to evaluate the reliability of the chosen passive microwave concentration estimation model. The project resources and final report are available on GitHub, at the links below.
+  For my BSc(Eng) Mechatronics final year project, I presented an end-to-end workflow for generating learned concentration estimation models from synthetic aperture radar data, trained on existing passive microwave data. A novel objective function was introduced to account for uncertainty in the passive microwave measurements, which can be extended to account for arbitrary sources of error in the training data, and a recent set of in situ observations was used to evaluate the reliability of the chosen passive microwave concentration estimation model. I was honoured to recive the award for <b>Best Machine Learning Porject in the Electrical Engineering Department</b>. The project resources and final report are available on GitHub, at the links below.
 </p>
 
 <div class="linkbox">
