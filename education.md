@@ -14,7 +14,7 @@ filename: education
 </p>
 <h3>Awards & Achievements</h3>
 <p>
-  I was awarded a <b>Faculty Entrance Scholarship</b> based on my matric results, and I have been on the <b>Dean's Merit List each year</b>. In 2016 I received the <b>Class Medal for Introduction to Electronics</b>, and earned a <b>Computer Science Merit Award</b>. In 2017 I was invited to join the <b>Golden Key International Honor Society</b> based on my academic performance. I have maintained a high academic standard, with a <b>current GPA of 80%</b>, and my final year project was recognised as the <b>Best Machine Learning Project in the Electrical Engineering Department</b> (check out my <a href="projects">projects page<\a> for more info on that). My full academic transcript is available below.
+  I was awarded a <b>Faculty Entrance Scholarship</b> based on my matric results, and I have been on the <b>Dean's Merit List each year</b>. In 2016 I received the <b>Class Medal for Introduction to Electronics</b>, and earned a <b>Computer Science Merit Award</b>. In 2017 I was invited to join the <b>Golden Key International Honor Society</b> based on my academic performance. I have maintained a high academic standard, with a <b>current GPA of 80%</b>, and my final year project was recognised as the <b>Best Machine Learning Project in the Electrical Engineering Department</b> (check out my <a href="projects">projects page</a> for more info on that). My full academic transcript is available below.
 </p>
 <div class="linkbox">
   <a href="resources/UCT_Transcript_StefanDominicus.pdf" target="_blank">Academic Results<small>UCT Transcript</small></a>
