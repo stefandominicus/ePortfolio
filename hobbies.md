@@ -21,7 +21,7 @@ filename: hobbies
 <hr>
 <h2>🏅 Squash 🏅</h2>
 <p>
-  I have been a part of the UCT Squash Society from 2017. I enjoy playing league and social matches, as well as meeting new people. This year I am also captain of my league team.
+  I was a part of the UCT Squash Society from 2017, where I really enjoyed playing league and social matches, and making friends along the way. In 2019, I was also captain of my league team. I still love playing squash with friends and family, and I look forward to joining another club soon.
 </p>
 
 <hr>
