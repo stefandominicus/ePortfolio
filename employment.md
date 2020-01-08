@@ -8,7 +8,7 @@ filename: employment
 
 <hr>
 <h2>Software Engineering</h2>
-<img class="icon" src="resources/takealot_icon.jpg" alt="Takealot Logo">
+<img class="icon" style="height:60px;width:auto;" src="resources/takealot_icon.png" alt="Takealot Logo">
 <h3>Takealot.com</h3>
 <p class="subtitle">2020 - Present</p>
 <p>
