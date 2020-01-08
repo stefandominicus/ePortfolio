@@ -7,18 +7,30 @@ filename: employment
 <h1>Employment</h1>
 
 <hr>
+<h2>Software Engineering</h2>
+<img class="icon" src="resources/takealot_icon.png" alt="Takealot Logo">
+<h3>Takealot.com</h3>
+<p class="subtitle">2020 - Present</p>
+<p>
+  
+</p>
+<div class="linkbox">
+  <a href="https://www.takealot.com" target="_blank">Takealot<small>Check out their website</small></a>
+</div>
+
+<hr>
 <h2>Internships</h2>
 <img class="icon" src="resources/aerobotics_icon.png" alt="Aerobotics Logo">
 <h3>Aerobotics (Pty) Ltd</h3>
 <p class="subtitle">Dec 2018 - Jan 2019</p>
 <p>
-  I was recently part of a six-week internship at Aerobotics (Pty) Ltd, where I was very involved in image processing and worked to streamline the process of stitching hundreds of images into a single orthographic image for further processing.
+  As part of my engineering studies, I took part in a six-week internship at Aerobotics (Pty) Ltd, where I was very involved in image processing and worked to streamline the process of stitching hundreds of images into a single orthographic image for further processing.
 </p>
 <div class="linkbox">
   <a href="https://www.aerobotics.com/" target="_blank">Aerobotics<small>Check out their website</small></a>
 </div>
-<hr>
 
+<hr>
 <h2>Teaching</h2>
 
 <img class="icon" src="resources/clubelectron_icon.png" alt="Club Electron Logo">
