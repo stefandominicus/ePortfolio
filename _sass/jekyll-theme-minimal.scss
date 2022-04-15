@@ -124,10 +124,16 @@ img.profilephoto {
 
 img.icon {
   display:block;
-  width:60px;
+  width:auto;
   height:60px;
   margin-left: auto;
   margin-right: auto;
+}
+
+img.content {
+  display: block;
+  height: auto;
+  width: 100%;
 }
 
 .linkbox {
@@ -136,14 +142,12 @@ img.icon {
 }
 
 .innerleft {
-  display:inline-block;
   text-align:right;
   float:left;
   width:45%;
 }
 
 .innerright {
-  display:inline-block;
   text-align:left;
   float:right;
   width:45%;
